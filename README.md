@@ -2,6 +2,6 @@
 
 
 
-学习前端的同时需要对后端技术具有一定的了解，并且一定的数据结构与算法的实现需要用到 stl 库，只使用c语言来实现是有些冗余且浪费时间的，因此由此开始学习c++
+包含部分c++练习及leetcode试题
 
 > CSDN链接：https://blog.csdn.net/chengxuyuanlee
