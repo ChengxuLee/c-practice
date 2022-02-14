@@ -2,6 +2,6 @@
 
 
 
-包含部分c++练习及leetcode试题
+包含部分c++练习
 
 > CSDN链接：https://blog.csdn.net/chengxuyuanlee
