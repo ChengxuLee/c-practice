@@ -2,6 +2,6 @@
 
 
 
-包含部分c++的日常练习
+包含部分c++日常练习
 
 > CSDN链接：https://blog.csdn.net/chengxuyuanlee
